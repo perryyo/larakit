@@ -1,4 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank" rel="noopener noreferrer"><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" alt="Laravel logo"></a></p>
 
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg" alt="Build Status"></a>
