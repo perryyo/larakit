@@ -1,10 +1,10 @@
 {
-    "name": "laravel/laravel",
+    "name": "perryyo/larakit",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "an Laravel Framework starterkit for your startup.",
     "keywords": [
         "framework",
-        "laravel"
+        "startup"
     ],
     "license": "MIT",
     "require": {
